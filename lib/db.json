@@ -1,3 +1,1 @@
-{
-
-}
+{"budgetLists":[{"budget":"£200 - £500","comments":[{"rating":8,"opinion":"I liked Morocco"},{"rating":1,"opinion":"Not worth it"}],"suggestions":["Majorca(Spain)"," Fes(Morocco)"," Prague(Czech Republic)"],"id":1},{"budget":"£500 - £800","comments":[{"rating":3,"opinion":"Hmm.. Any other suggestions?"},{"rating":7,"opinion":"I'd like to go to Bangkok"}],"suggestions":["Reykjavik(Iceland)"," Bangkok(Thailand)"," Hong Kong(China)"],"id":2},{"budget":"£800 - £1200","comments":[{"rating":9,"opinion":"Kyoto was my favourite"},{"rating":1,"opinion":"boring choices"}],"suggestions":["California(US)"," Kyoto(Japan)"," Santorini(Greece)"],"id":3}]}
